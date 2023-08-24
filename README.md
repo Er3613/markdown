@@ -7,3 +7,6 @@
 ![Alt text](WIN_20221109_05_59_21_Pro.jpg)
 <span style="color: red;">This text is red.</span>
 <span style="color: blue;">This text is blue.</span>
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Cell 1   | Cell 2   |
